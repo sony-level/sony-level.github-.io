@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Friend & Foe</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div id="loading"></div>
+	<span id="refresh-timer">Chargement...</span>
+	<iframe src="https://playingcards.io/cbtqas" frameborder="0"></iframe>
+	<div id="players-frame">
+		<div id="scoreboard">
+			<button class="close" onclick="closeModal()">Fermer</button>
+			<h1>Tableau des scores</h1>
+			<p>Vie du Boss 👹 : <span id="boss-life">Chargement...</span></p>
+			<div id="table">
+				<table>
+					<tr>
+						<th>Joueur</th>
+						<th>Points</th>
+						<th>Vie du round</th>
+					</tr>
+					<tr>
+						<td id="player-one-name">Chargement...</td>
+						<td id="player-one-points">Chargement...</td>
+						<td id="player-one-life">Chargement...</td>
+					</tr>
+					<tr>
+						<td id="player-two-name">Chargement...</td>
+						<td id="player-two-points">Chargement...</td>
+						<td id="player-two-life">Chargement...</td>
+					</tr>
+					<tr>
+						<td id="player-three-name">Chargement...</td>
+						<td id="player-three-points">Chargement...</td>
+						<td id="player-three-life">Chargement...</td>
+					</tr>
+					<tr>
+						<td id="player-four-name">Chargement...</td>
+						<td id="player-four-points">Chargement...</td>
+						<td id="player-four-life">Chargement...</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</div>
+	<div id="modal">
+		<div id="content">
+			<button class="close" onclick="closeModal()">Fermer</button>
+			<div id="sheet">
+				<iframe src="https://docs.google.com/spreadsheets/d/13_GMlu8BCvk7AfyK2nBOetkdYnUdV725-m-5Tc6IBmk/edit?usp=sharing?&amp;rm=minimal&amp;"></iframe>
+			</div>
+		</div>
+	</div>
+	<div>
+		<button id="open">Feuilles</button>
+		<button id="scores">Scores</button>
+	</div>
+	<script src="js/switch.js"></script>
+	<script src="js/sheet.js"></script>
+</body>
+</html>

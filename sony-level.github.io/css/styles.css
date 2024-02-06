@@ -1,0 +1,33 @@
+html, body {
+	overflow: auto;
+	scroll-behavior: smooth;
+}
+
+#particles-js {
+	z-index: -1;
+}
+
+.link {
+	display: inline-block;
+	position: relative;
+	padding-bottom: 3px;
+}
+
+.link::after {
+	content: '';
+	display: block;
+	margin: auto;
+	height: 3px;
+	width: 0px;
+	background: transparent;
+	transition: width .3s ease, background-color .3s ease;
+}
+
+.link:hover::after {
+	width: 100%;
+	background: rgb(176, 34, 45);
+}
+
+.marge {
+	padding-left: 20px;
+}
