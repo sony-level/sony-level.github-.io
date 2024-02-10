@@ -22,3 +22,13 @@ tippy('#jetbrains-lang', { content: 'JetBrains', });
 tippy('#xcode-lang', { content: 'Xcode', });
 tippy('#androidstudio-lang', { content: 'Android Studio', });
 tippy('#office-lang', { content: 'Office 365', });
+tippy('#g-suite-lang', { content: 'G Suite', });
+tippy('#adobe-lang', { content: 'Adobe Creative Cloud', });
+tippy('#blender-lang', { content: 'Blender', });
+tippy('#unity-lang', { content: 'Unity', });
+tippy('#unreal-lang', { content: 'Unreal', });
+tippy('#photoshop-lang', { content: 'Photoshop', });
+tippy('#illustrator-lang', { content: 'Illustrator', });
+tippy('#indesign-lang', { content: 'InDesign', });
+tippy('#lightroom-lang', { content: 'Lightroom', });
+
