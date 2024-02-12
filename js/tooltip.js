@@ -19,7 +19,7 @@ tippy('#vscode-lang', { content: 'Visual Studio Code', });
 tippy('#git-lang', { content: 'Git', });
 tippy('#trello-lang', { content: 'Trello', });
 tippy('#jetbrains-lang', { content: 'JetBrains', });
-tippy('#xcode-lang', { content: 'Xcode', });
+tippy('#xcode-lang', { content: 'Kubernetes', });
 tippy('#androidstudio-lang', { content: 'Android Studio', });
 tippy('#office-lang', { content: 'Office 365', });
 tippy('#g-suite-lang', { content: 'G Suite', });
