@@ -17,7 +17,7 @@ tippy('#pygame-lang', { content: 'Pygame', });
 tippy('#vs-lang', { content: 'Visual Studio', });
 tippy('#vscode-lang', { content: 'Visual Studio Code', });
 tippy('#git-lang', { content: 'Git', });
-tippy('#trello-lang', { content: 'Trello', });
+tippy('#trello-lang', { content: 'Prometheus', });
 tippy('#jetbrains-lang', { content: 'JetBrains', });
 tippy('#xcode-lang', { content: 'Kubernetes', });
 tippy('#androidstudio-lang', { content: 'Android Studio', });
@@ -28,9 +28,10 @@ tippy('#blender-lang', { content: 'Blender', });
 tippy('#unity-lang', { content: 'Unity', });
 tippy('#unreal-lang', { content: 'Unreal', });
 tippy('#photoshop-lang', { content: 'Photoshop', });
-tippy('#illustrator-lang', { content: 'Illustrator', });
+tippy('#AWSIoT-lang', { content: 'AWS IOT', });
 tippy('#indesign-lang', { content: 'InDesign', });
-tippy('#lightroom-lang', { content: 'Lightroom', });
+tippy('#wireshark', { content: 'Wireshark', });
+
 
 
 
