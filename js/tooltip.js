@@ -18,7 +18,7 @@ tippy('#vs-lang', { content: 'Visual Studio', });
 tippy('#vscode-lang', { content: 'Visual Studio Code', });
 tippy('#git-lang', { content: 'Git', });
 tippy('#trello-lang', { content: 'Prometheus', });
-tippy('#jetbrains-lang', { content: 'JetBrains', });
+tippy('#jetbrains-lang', { content: 'Firecraker', });
 tippy('#xcode-lang', { content: 'Kubernetes', });
 tippy('#androidstudio-lang', { content: 'Android Studio', });
 tippy('#office-lang', { content: 'Office 365', });
