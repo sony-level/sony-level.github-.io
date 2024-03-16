@@ -40,7 +40,6 @@ tippy('#burpsuite', { content: 'Burp Suite', });
 tippy('#owasp', { content: 'OWASP', });
 tippy('#owasp', { content: 'OWASP', });
 
-// Path: js/tooltip.js
 
 
 
