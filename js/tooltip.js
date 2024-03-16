@@ -39,7 +39,7 @@ tippy('#nmap', { content: 'Nmap', });
 tippy('#burpsuite', { content: 'Burp Suite', });
 tippy('#owasp', { content: 'OWASP', });
 tippy('#owaspzap', { content: 'OWASP ZAP', });
-tippy('#owaspzap', { content: 'OWASP ZAP', });
+
 
 
 
