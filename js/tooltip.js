@@ -35,6 +35,9 @@ tippy('#wireshark', { content: 'Wireshark', });
 tippy('#postman', { content: 'Postman', });
 tippy('#kali', { content: 'Kali Linux', });
 tippy('#metasploit', { content: 'Metasploit', });
+tippy('#nmap', { content: 'Nmap', });
+tippy('#burpsuite', { content: 'Burp Suite', });
+tippy('#owasp', { content: 'OWASP', });
 
 // Path: js/tooltip.js
 
