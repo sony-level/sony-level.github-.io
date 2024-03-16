@@ -34,6 +34,7 @@ tippy('#generator', { content: 'Jenkins', });
 tippy('#wireshark', { content: 'Wireshark', });
 tippy('#postman', { content: 'Postman', });
 tippy('#kali', { content: 'Kali Linux', });
+tippy('#metasploit', { content: 'Metasploit', });
 
 // Path: js/tooltip.js
 
