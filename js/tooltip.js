@@ -32,6 +32,8 @@ tippy('#photoshop-lang', { content: 'Photoshop', });
 tippy('#AWSIoT-lang', { content: 'AWS IOT', });
 tippy('#generator', { content: 'Jenkins', });
 tippy('#wireshark', { content: 'Wireshark', });
+tippy('#postman', { content: 'Postman', });
+
 
 
 
