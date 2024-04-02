@@ -38,7 +38,12 @@ tippy('#metasploit', { content: 'Metasploit', });
 tippy('#nmap', { content: 'Nmap', });
 tippy('#burpsuite', { content: 'Burp Suite', });
 tippy('#owasp', { content: 'OWASP', });
+tippy('#fortinet-cert-badge' , {content: 'Fortinet Certified Fundamentals in Cybersecurity'});
+tippy('#fortinet-cert-badge1' , {content: 'Fortinet Certified Associate in Cybersecurity'});
+tippy('#fortinet-cert-badge2' , {content: 'Fortinet FortiGate Operator'});
+tippy('#fortinet-cert-badge3' , {content: 'Technical Introduction to Cybersecurity'});
 tippy('#owaspzap', { content: 'OWASP ZAP', });
+
 
 
  
