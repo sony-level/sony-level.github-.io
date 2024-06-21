@@ -3,7 +3,7 @@
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
-}
+} 
 
 .carousel-gameone-open:checked + .carousel-gameone-item,
 .carousel-gametwo-open:checked + .carousel-gametwo-item,
